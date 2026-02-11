@@ -5,23 +5,23 @@ import { MessageCircle, Github, Twitter, ArrowRight } from 'lucide-react';
 const communityLinks = [
   {
     icon: MessageCircle,
-    name: 'r/dyadbuilders',
+    name: 'r/openlovablebuilders',
     description: '3,000+ builders',
-    href: 'https://reddit.com/r/dyadbuilders',
+    href: 'https://reddit.com/r/openlovablebuilders',
     color: 'bg-orange-500',
   },
   {
     icon: Github,
     name: 'Star on GitHub',
     description: 'Open source',
-    href: 'https://github.com/dyad-sh/dyad',
+    href: 'https://github.com/ishandutta2007/openlovable',
     color: 'bg-gray-900 dark:bg-gray-800',
   },
   {
     icon: Twitter,
     name: 'Follow on X',
-    description: '@dyad_sh',
-    href: 'https://x.com/dyad_sh',
+    description: '@openlovable_sh',
+    href: 'https://x.com/openlovable_sh',
     color: 'bg-black',
   },
 ];
