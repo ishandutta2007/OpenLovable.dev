@@ -45,7 +45,7 @@ export function Flexibility() {
 									<div className="w-16 flex flex-col items-center gap-4">
 										<div className="w-10 h-10 rounded-xl bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center">
 											<span className="text-purple-600 dark:text-purple-400 text-lg font-bold">
-												d
+												L
 											</span>
 										</div>
 										<div className="w-10 h-10 rounded-xl hover:bg-gray-100 dark:hover:bg-gray-800 flex items-center justify-center">

@@ -39,7 +39,7 @@ export function Header({ isDark, setIsDark }: HeaderProps) {
 					{/* Logo */}
 					<a href="/" className="flex items-center gap-2">
 						<div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-violet-600 flex items-center justify-center">
-							<span className="text-white font-bold text-sm">d</span>
+							<span className="text-white font-bold text-sm">L</span>
 						</div>
 						<span className="font-semibold text-gray-900 dark:text-white">
 							OpenLovable

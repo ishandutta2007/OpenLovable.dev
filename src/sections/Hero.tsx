@@ -79,7 +79,7 @@ export function Hero() {
 								<div className="flex-1 flex justify-center">
 									<div className="bg-white dark:bg-gray-800 rounded-md px-4 py-1 text-xs text-gray-500 dark:text-gray-400 flex items-center gap-2">
 										<span className="w-4 h-4 rounded-full bg-purple-500 flex items-center justify-center text-white text-[8px]">
-											d
+											L
 										</span>
 										gentle-fox-chat...
 										<span className="px-1.5 py-0.5 bg-purple-100 dark:bg-purple-900/30 text-purple-600 dark:text-purple-400 text-[10px] rounded">
