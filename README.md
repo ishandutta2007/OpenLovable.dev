@@ -1,4 +1,6 @@
-# OpenLovableLanding
+# Open Lovable Landing Page
+
+The native tool can be found [here](https://github.com/ishandutta2007/Open-Lovable)
 
 ## React + TypeScript + Vite
 
